@@ -1,6 +1,3 @@
 important text
-<<<<<<< HEAD
 most importan text
-=======
 some more text
->>>>>>> master
